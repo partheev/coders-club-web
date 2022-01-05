@@ -1,13 +1,36 @@
 
 .titlesx{
-    display: flex;
+    /* display: flex; */
+    justify-content: center;
 }
-@media only screen and (max-width: 589px ) {
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.para-about{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 500;
+}
+@media only screen and (max-width: 621px ) {
     .titlesx{
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        text-align: center;
+    }
+    .titlesxy{
+        display: flex;
+        flex-direction:column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .about-images{
+        margin-bottom: 16px;
     }
     
 }
