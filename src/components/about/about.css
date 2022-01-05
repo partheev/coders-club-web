@@ -1,0 +1,13 @@
+
+.titlesx{
+    display: flex;
+}
+@media only screen and (max-width: 589px ) {
+    .titlesx{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+}

@@ -1,0 +1,7 @@
+.homebg {
+  background-image: url('../../../public//home.jpg');
+  min-height: 90vh;
+  object-fit: contain;
+  padding-top: 10rem;
+  padding-left: 5rem;
+}
