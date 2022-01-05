@@ -1,5 +1,5 @@
 .homebg {
-  background-image: url('../../../public//home.jpg');
+  background-image: url('../../images//home.jpg');
   min-height: 90vh;
   object-fit: contain;
   padding-top: 10rem;

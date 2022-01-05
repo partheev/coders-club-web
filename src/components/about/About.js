@@ -8,7 +8,7 @@ export const About = () => {
         <div>
           <img
             className=' rounded-md about-images w-60 h-52'
-            src='./letscode.jpg'
+            src={require('../../images/letscode.jpg')}
             alt='letscode'
           />
         </div>
@@ -37,7 +37,7 @@ export const About = () => {
         <div>
           <img
             className='rounded-md about-images w-60 h-52 '
-            src='./download_about.jpg'
+            src={require('../../images/download_about.jpg')}
             alt='letscode'
           />
         </div>
@@ -46,7 +46,7 @@ export const About = () => {
         <div>
           <img
             className='rounded-md about-images w-60 h-52'
-            src='./volunteers.jpg'
+            src={require('../../images/volunteers.jpg')}
             alt='letscode'
           />
         </div>

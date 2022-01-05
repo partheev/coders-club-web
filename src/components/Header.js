@@ -3,19 +3,19 @@ import { NavLink } from 'react-router-dom'
 const navitemsdata = [
   {
     name: 'Home',
-    route: '/home',
+    route: '/coders-club-web/home',
   },
   {
     name: 'About',
-    route: '/about',
+    route: '/coders-club-web/about',
   },
   {
     name: 'Events',
-    route: '/events',
+    route: '/coders-club-web/events',
   },
   {
     name: 'Contact Us',
-    route: '/contactus',
+    route: '/coders-club-web/contactus',
   },
 ]
 const Header = () => {
@@ -49,7 +49,7 @@ const Header = () => {
   }
   return (
     <div className='shadow-lg   px-5 flex justify-between items-center bg-white'>
-      <img src='./logo.png' className='m-2 rounded'></img>
+      <img src={require('../images/logo.png')} className='m-2 rounded'></img>
       <NavItems />
     </div>
   )

@@ -1,5 +1,5 @@
 import React from 'react'
-
+import poster from '../../images/event.jpg'
 const Events = () => {
   const RegForm = () => {
     return (
@@ -69,7 +69,7 @@ const Events = () => {
     return (
       <div className=''>
         <img
-          src='./event.jpg'
+          src={poster}
           className='m-auto rounded-lg  max-w-[80rem] h-[30rem] w-full'
         ></img>
         <div className=' '>

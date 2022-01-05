@@ -1,4 +1,4 @@
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, Navigate } from 'react-router-dom'
 import { About } from './components/about/About'
 import { Contact } from './components/Contact'
 import Events from './components/events/Events'
@@ -10,11 +10,14 @@ function App() {
     <div className=' min-h-screen bg-slate-200'>
       <Header />
       <Routes>
-        {/* <Route path='/puri' element={<Puri />} /> */}
-        <Route path='/events' element={<Events />} />
-        <Route path='/home' element={<Home />} />
-        <Route path='/about' element={<About />} />
-        <Route path='/contactus' element={<Contact />} />
+        <Route
+          path='/coders-club-web'
+          element={<Navigate to={'/coders-club-web/home'} />}
+        />
+        <Route path='/coders-club-web/events' element={<Events />} />
+        <Route path='/coders-club-web/home' element={<Home />} />
+        <Route path='/coders-club-web/about' element={<About />} />
+        <Route path='/coders-club-web/contactus' element={<Contact />} />
       </Routes>
     </div>
   )
