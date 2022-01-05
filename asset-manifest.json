@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/coders-club-web/static/css/main.4677ee8e.css",
+    "main.js": "/coders-club-web/static/js/main.2260470f.js",
+    "static/media/home.jpg": "/coders-club-web/static/media/home.7780aa31ebb02b65d965.jpg",
+    "index.html": "/coders-club-web/index.html",
+    "main.4677ee8e.css.map": "/coders-club-web/static/css/main.4677ee8e.css.map",
+    "main.2260470f.js.map": "/coders-club-web/static/js/main.2260470f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4677ee8e.css",
+    "static/js/main.2260470f.js"
+  ]
+}
