@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/coders-club-web/static/css/main.4677ee8e.css",
-    "main.js": "/coders-club-web/static/js/main.afd0e283.js",
+    "main.js": "/coders-club-web/static/js/main.ac7a0ef0.js",
     "static/media/event.jpg": "/coders-club-web/static/media/event.df44f5de5b7985c7ca9b.jpg",
     "static/media/home.jpg": "/coders-club-web/static/media/home.7780aa31ebb02b65d965.jpg",
     "static/media/volunteers.jpg": "/coders-club-web/static/media/volunteers.c96181090f5d62bdebb3.jpg",
     "static/media/download_about.jpg": "/coders-club-web/static/media/download_about.749de4e50c5d0d8b749c.jpg",
     "index.html": "/coders-club-web/index.html",
     "main.4677ee8e.css.map": "/coders-club-web/static/css/main.4677ee8e.css.map",
-    "main.afd0e283.js.map": "/coders-club-web/static/js/main.afd0e283.js.map"
+    "main.ac7a0ef0.js.map": "/coders-club-web/static/js/main.ac7a0ef0.js.map"
   },
   "entrypoints": [
     "static/css/main.4677ee8e.css",
-    "static/js/main.afd0e283.js"
+    "static/js/main.ac7a0ef0.js"
   ]
 }
