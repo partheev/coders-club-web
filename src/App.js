@@ -1,10 +1,11 @@
 import { Routes, Route } from 'react-router-dom'
+import Header from './components/Header'
 import { Puri } from './components/puri/Puri'
 
 function App() {
   return (
     <div>
-      <div className='App bg-blue-400'>Hellojj</div>
+      <Header />
       <Routes>
         <Route path='/puri' element={<Puri />} />
       </Routes>
