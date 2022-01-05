@@ -5,7 +5,7 @@
 - Yeswanth II CST
 ## Live : http://localhost:3000/coders-club-web/
 Clone the project using 
-### `git clone [CODERS CLUB WEBPAGE]<https://github.com/partheev/coders-club-web.git`>
+### `git clone https://github.com/partheev/coders-club-web.git`
 
 In the project directory, you can run:
 
