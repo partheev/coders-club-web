@@ -16,7 +16,7 @@ export const Home = () => {
             You can't always be the most talented in the room, but you can be
             the most competitive !
           </h1>
-          <Link to={'/events'}>
+          <Link to={'/coders-club-web/events'}>
             <span className='  mt-5 inline-block text-white font-bold bg-cyan-600 p-2  rounded-md'>
               Join Event
             </span>

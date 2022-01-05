@@ -11,9 +11,10 @@ function App() {
       <Header />
       <Routes>
         <Route
-          path='/coders-club-web'
+          path='/coders-club-web/'
           element={<Navigate to={'/coders-club-web/home'} />}
         />
+        <Route path='/' element={<Navigate to={'/coders-club-web/home'} />} />
         <Route path='/coders-club-web/events' element={<Events />} />
         <Route path='/coders-club-web/home' element={<Home />} />
         <Route path='/coders-club-web/about' element={<About />} />
