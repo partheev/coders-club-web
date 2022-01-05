@@ -1,9 +1,9 @@
 # Coders club hackathon , GPREC
-#TEAM
+## TEAM
 - Partheev II CST
 - Poornesh II CSE-A
 - Yeswanth II CST
-## Live : https://partheev.github.io/coders-club-web/home
+## Live : https://partheev.github.io/coders-club-web/
 Clone the project using 
 ### `git clone https://github.com/partheev/coders-club-web.git`
 
