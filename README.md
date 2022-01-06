@@ -18,6 +18,19 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+## Home Page
+![Home Page](https://github.com/partheev/coders-club-web/blob/master/screenshots/homepage.png)
 
-![Test Image 4](https://github.com/partheev/coders-club-web/blob/master/screenshots/homepage.png)
+## About Page
+![About Page](https://github.com/partheev/coders-club-web/blob/master/screenshots/aboutpage.png)
+
+## Events Page
+![Events Page](https://github.com/partheev/coders-club-web/blob/master/screenshots/events1.png)
+
+## Registration Form
+![Events Page](https://github.com/partheev/coders-club-web/blob/master/screenshots/events2.png)
+
+
+### THANK YOU
+
 
