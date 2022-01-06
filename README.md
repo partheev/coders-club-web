@@ -3,7 +3,9 @@
 - Partheev II CST
 - Poornesh II CSE-A
 - Yeswanth II CST
-## Live : https://partheev.github.io/coders-club-web/
+## Live : https://partheev.github.io/coders-club-web/ 
+## (VIEW IT ONLY IN DESKTOP BROWSER. It's not Responsive for mobile devices!)
+
 Clone the project using 
 ### `git clone https://github.com/partheev/coders-club-web.git`
 
