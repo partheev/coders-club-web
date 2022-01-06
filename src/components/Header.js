@@ -33,7 +33,10 @@ const Header = () => {
     return (
       <div className='flex items-center'>
         {navitemsdata.map((e) => (
-          <div className='m-4 p-2 hover:bg-blue-400 hover:text-white rounded'>
+          <div
+            key={e.route}
+            className='m-4 p-2 hover:bg-blue-400 hover:text-white rounded'
+          >
             <NavItem item={e} />
           </div>
         ))}

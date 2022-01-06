@@ -92,21 +92,11 @@ const Events = () => {
       </div>
     )
   }
-  const EventsList = () => {
-    return (
-      <div>
-        <ul>
-          <li>1. Hertx</li>
-        </ul>
-      </div>
-    )
-  }
   return (
     <div className=' max-w-[80rem] m-auto mt-10 w-[90%] rounded-lg p-5 pb-10 bg-white '>
       <h1 className='font-bold text-2xl underline'>
         Register for Coders Club Events
       </h1>
-      {/* <EventsList /> */}
       <div className='py-10'>
         <EventDetails />
       </div>
