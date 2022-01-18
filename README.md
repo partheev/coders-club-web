@@ -1,4 +1,5 @@
 # Coders club hackathon , GPREC
+> We built it in 2 hours
 ## TEAM
 - Partheev II CST
 - Poornesh II CSE-A
